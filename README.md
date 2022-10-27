@@ -1,4 +1,3 @@
-1 Resume | Technology Consultant, British Asian Trust
 EXPERIENCE
 JAN 2017 – AUG 2019 | New Delhi, India
 PHP Web Developer | Web Key Networks (http://www.tradekeyindia.com/)
